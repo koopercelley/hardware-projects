@@ -1,0 +1,12 @@
+these projects were created in Digital Electronics for learning about Sequential Logic
+
+1) Count to 80 asynchronous timer:
+  - this timer uses two 4-bit counters and two BCD's in order to count to 80
+    https://www.multisim.com/content/eb5ZorJqwsiYEWVgt9AjdE/324-project/
+    
+2) MSI Synchronous counters:
+  https://www.multisim.com/content/ntii28HcNJLvWB2jsHMzcD/332/
+
+3) 60 second Synchronour Timer:
+  https://www.multisim.com/content/u7B43Yfqotho6HvX3rWnRL/60-second-timer/
+ 
