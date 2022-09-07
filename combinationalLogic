@@ -1,0 +1,19 @@
+Here are links to circuits made in Digital Electronics using AOI combinational logic:
+
+1) Dice rolling simulator:
+  https://www.multisim.com/content/3qTh6AYDAi6w47uA8eray8/127-3-and-4/
+
+2) Majority vote simulator:
+  - if 3 or more people vote "yes", the candidate wins:
+  - unsimplified logic circuit:
+    https://www.multisim.com/content/WhrutHEUzhoDXtutNprvgf/216-majority-vote/
+  - simplified logic circuit:
+    https://www.multisim.com/content/enAn9XHpBZ6VMVHvcbxMX3/216-7/
+    
+3) Date of Birth Project:
+  - given a random date of birth, display it using AOI logic using a 7 segment display:
+  - this project additonally uses a 2 bit counter logic in order to display this.
+    https://www.multisim.com/content/gAMkYyaqut6LCsVfNGhehi/birthday-7-segment-display/
+    
+
+  
